@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gemspec
 
+gem "interactor", "~> 3.2", git: 'https://github.com/bigcommerce-labs/interactor.git', tag: 'v3.2.0'
 gem "rails", "~> 4.1.0"
 
 group :test do
