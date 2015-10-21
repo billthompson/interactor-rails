@@ -1,3 +1,11 @@
+## 2.1.1 / 2015-10-15
+
+* [ENHANCEMENT] Update to Interactor 3.2.1
+
+## 2.1.0 / 2015-10-15
+
+* [ENHANCEMENT] Update to Interactor 3.2.0
+
 ## 2.0.1 / 2014-09-08
 
 * [BUGFIX] Generate nested directories for generated namespaced interactors
