@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
   spec.files      = `git ls-files`.split($/)
   spec.test_files = spec.files.grep(/^spec/)
 
-  spec.add_dependency "rails", ">= 3", "< 4.2"
+  spec.add_dependency "rails", ">= 3", "< 5.0"
 
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.3"
